@@ -9,4 +9,4 @@ let p = document.querySelector(".page-content");
 p.style.background = "url(" + imgPath + ") no-repeat center center fixed";
 p.style.backgroundSize = "cover";
 
-# can use </script> tags to implement 
+// can use </script> tags to implement 
